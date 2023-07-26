@@ -26,12 +26,10 @@ Note: we have split the zip file for uploading. The following commands need to b
 ````
 zip model_split.zip -s=0 --out model.zip
 unzip model.zip
-
-zip temp_data_split.zip -s=0 --out temp_data.zip
-unzip temp_data.zip
 ````
+Then the temp data also needs to be downloaded from https://anonymous.4open.science/r/HolisticRCATempData-D9E4.
 
-Then the ``model`` and ``temp_data`` folders need be placed following the structure of the working folder:
+Finally the ``model`` and ``temp_data`` folders need be placed following the structure of the working folder:
 ````
 .
 ├── README.md
