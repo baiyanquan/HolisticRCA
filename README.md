@@ -84,7 +84,3 @@ Since the raw data is too big, we list their links here, help for downloading:
 - Dataset A: https://competition.aiops-challenge.com/home/competition/1496398526429724760. (Sometimes the page may be crashed, please visit https://www.bizseer.com/index.php?m=content&c=index&a=show&catid=25&id=83 for simple introduction).
 - Dataset B: https://www.aiops.sribd.cn/home/introduction.
 - Dataset C: https://doi.org/10.5281/zenodo.7615393.
-
-## Statement
-
-For the sake of preserving anonymity, we have removed all textual comments from the code, which will be added to the source code once the work is formally published.
