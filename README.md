@@ -83,4 +83,4 @@ Since the raw data is too big, we list their links here, help for downloading:
 
 - Dataset A: https://competition.aiops-challenge.com/home/competition/1496398526429724760. (Sometimes the page may be crashed, please visit https://www.bizseer.com/index.php?m=content&c=index&a=show&catid=25&id=83 for simple introduction).
 - Dataset B: https://www.aiops.sribd.cn/home/introduction.
-- Dataset C: https://doi.org/10.5281/zenodo.7615393.
+- Dataset C: https://doi.org/10.5281/zenodo.7615393. (Note that the actual number of fault injections is 36. Due to the limited sample size, we applied a sliding window of length 5 to each fault injection, resulting in a total of 36*5 = 180 samples.)
